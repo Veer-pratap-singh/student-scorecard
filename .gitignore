@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Streamlit runtime files (keep the config.toml)
+.streamlit/*
+!.streamlit/config.toml
